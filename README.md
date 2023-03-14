@@ -1,2 +1,1 @@
-# VeeamSoftware
-Python solution for Folder Synchronization
+# Python solution for Folder Synchronization
